@@ -9,3 +9,8 @@ a divulgação desses dados e que outras pessoas possam contribuir com este proj
 Inicialmente, vamos fazer a análise do dados da segurança das barragens de hidrelétricas que podem ser encontrados no portal de dados abertos da ANEEL (clique [aqui](https://dadosabertos.aneel.gov.br/dataset/fsb-fiscalizacao-de-seguranca-de-barragens) para acessar) e a ideia é que haja cruzamento com outras bases de dados de modo a enriquecer a análise
 
 Todo o processo vai ser documentado para olhar em que ponto estamos da análise (que pode ser conferido [aqui](https://flint-texture-e2f.notion.site/Hidrus-An-lise-de-seguran-a-das-barragens-b00afcc77d8e46b5b20f2d9179295562)) para saber em que ponto estamos na análise e caso deseja a dar a sua contribuição
+
+## Contribuição
+
+Caso deseja contribuir com o projeto crie um fork do repositório e coloque a sua contribuição dentro da pasta Pasta de contribuição e faça um PR
+Caso queira fazer uma contribuição mais direta ou possivelmente quiser fazer um financimaneto ou acordo comercial, envie um e-mail para hidrus2024@gmail.com
